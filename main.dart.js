@@ -37593,7 +37593,7 @@ a1.$0()}else if(d.as>=s&&d.ay===-1){d.ay=2
 a1.$0()}b=a0/10
 s=t.p
 r=a0/3
-b=A.b([A.cG(c,A.ds(A.b([A.bS("New Game",c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,40,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,b,c),A.cG(c,A.ds(A.b([A.bS("Sport: "+A.m(d.e),c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,24,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,a0/5+20,c),A.cG(c,A.xi(c,c,B.j0,c,c,c,new A.ahW(a2),c,c,c,c),c,c,b-8,c,b+8,c),A.cG(c,A.mV(d.r,new A.ahU(d),120,60,16),c,c,c,a/10-60,b-30,c),A.cG(c,A.ds(A.b([A.bS("First to",c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,24,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,r,c),A.cG(c,A.ds(A.b([A.bS(""+d.Q+"  -  "+d.as,c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,32,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,4*a0/7,c)],s)
+b=A.b([A.cG(c,A.ds(A.b([A.bS("New Gameeee",c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,40,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,b,c),A.cG(c,A.ds(A.b([A.bS("Sport: "+A.m(d.e),c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,24,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,a0/5+20,c),A.cG(c,A.xi(c,c,B.j0,c,c,c,new A.ahW(a2),c,c,c,c),c,c,b-8,c,b+8,c),A.cG(c,A.mV(d.r,new A.ahU(d),120,60,16),c,c,c,a/10-60,b-30,c),A.cG(c,A.ds(A.b([A.bS("First to",c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,24,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,r,c),A.cG(c,A.ds(A.b([A.bS(""+d.Q+"  -  "+d.as,c,c,c,A.cU(c,c,B.aj,c,c,c,c,c,c,c,c,32,c,c,B.l,c,c,!0,c,c,c,c,c,c,c,c),c,c)],s),B.H,B.bK,B.a_),c,c,0,0,4*a0/7,c)],s)
 for(q=a/12,p=d.w,o=t.lN,n=t.N,m=a0/4,l=t.kK,k=a/8,j=d.cx,i=0;i<d.y;++i){h=d.at[i]
 g=A.asJ(new A.a0(1/0,1/0,40,40),!0)
 f=J.iq(d.f,new A.ahX(),o)
@@ -37739,8 +37739,8 @@ h.push(g)
 m.e+=g}}}else{for(l=r.length,i=s.cx,n=0;n<r.length;r.length===l||(0,A.I)(r),++n)i.push(0)
 for(l=q.length,i=s.cy,n=0;n<q.length;q.length===l||(0,A.I)(q),++n)i.push(0)}}e=A.b([],t.P5)
 for(l=r.length,n=0;n<r.length;r.length===l||(0,A.I)(r),++n){m=r[n]
-if(m.c!==-1)e.push(m)}for(r=q.length,n=0;n<q.length;q.length===r||(0,A.I)(q),++n){m=q[n]
-if(m.c!==-1)e.push(m)}for(r=s.f,q=r.length,n=0;n<r.length;r.length===q||(0,A.I)(r),++n){l=r[n]
+if(m.e!==-1&&m.a!=="")e.push(m)}for(r=q.length,n=0;n<q.length;q.length===r||(0,A.I)(q),++n){m=q[n]
+if(m.e!==-1&&m.a!=="")e.push(m)}for(r=s.f,q=r.length,n=0;n<r.length;r.length===q||(0,A.I)(r),++n){l=r[n]
 if(B.b.lI(e,new A.ai9(l))===-1)e.push(l)}s.d.r2("String","users",B.bj.Fd(e,null))},
 $S:0}
 A.ai9.prototype={
